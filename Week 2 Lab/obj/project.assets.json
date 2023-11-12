@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\14406\\Desktop\\HikingStore\\EdsHikeStore\\EdsHikeStore.csproj",
+      "projectUniqueName": "C:\\Users\\14406\\Desktop\\HikingStore\\EdsHikeStore\\Week 2 Lab\\EdsHikeStore.csproj",
       "projectName": "EdsHikeStore",
-      "projectPath": "C:\\Users\\14406\\Desktop\\HikingStore\\EdsHikeStore\\EdsHikeStore.csproj",
+      "projectPath": "C:\\Users\\14406\\Desktop\\HikingStore\\EdsHikeStore\\Week 2 Lab\\EdsHikeStore.csproj",
       "packagesPath": "C:\\Users\\14406\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\14406\\Desktop\\HikingStore\\EdsHikeStore\\obj\\",
+      "outputPath": "C:\\Users\\14406\\Desktop\\HikingStore\\EdsHikeStore\\Week 2 Lab\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\14406\\AppData\\Roaming\\NuGet\\NuGet.Config"
