@@ -1,0 +1,39 @@
+@page
+@model EdsHikeStore.Pages.Product.ListProductsModel
+
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<h2 class="text-primary">@ViewData["Title"]</h2>
+
+<div class="table-responsive">
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Product Details</th>
+                <th>Product Price</th>
+                <th></th> <!-- This column is for the details link -->
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model.Products)
+            {
+                <tr>
+                    <td>@product.ProductName</td>
+                    <td>
+                        <img src="@product.ProductImage" alt="Image of @product.ProductName" class="img-fluid rounded mb-2" />
+                        <p>@product.ProductDescription</p>
+                    </td>
+                    <td>@product.ProductPrice.ToString("C")</td>
+                    <td><a asp-page="./Detail" asp-route-productId="@product.ProductId" class="btn btn-primary">Details</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<a asp-page="/Index" class="btn btn-primary">Back to Home</a>
+
+

@@ -1,0 +1,104 @@
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\bin\Debug\net8.0\appsettings.json
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\bin\Debug\net8.0\EdsHikeStore.staticwebassets.runtime.json
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\bin\Debug\net8.0\EdsHikeStore.exe
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\bin\Debug\net8.0\EdsHikeStore.deps.json
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\bin\Debug\net8.0\EdsHikeStore.runtimeconfig.json
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\bin\Debug\net8.0\EdsHikeStore.dll
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\bin\Debug\net8.0\EdsHikeStore.pdb
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\EdsHikeStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\EdsHikeStore.AssemblyInfoInputs.cache
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\EdsHikeStore.AssemblyInfo.cs
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\EdsHikeStore.csproj.CoreCompileInputs.cache
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\EdsHikeStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\EdsHikeStore.RazorAssemblyInfo.cache
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\EdsHikeStore.RazorAssemblyInfo.cs
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\staticwebassets\msbuild.EdsHikeStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\staticwebassets\msbuild.build.EdsHikeStore.props
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EdsHikeStore.props
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EdsHikeStore.props
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\scopedcss\bundle\EdsHikeStore.styles.css
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\scopedcss\projectbundle\EdsHikeStore.bundle.scp.css
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\EdsHikeStore.dll
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\refint\EdsHikeStore.dll
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\EdsHikeStore.pdb
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\EdsHikeStore.genruntimeconfig.cache
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\obj\Debug\net8.0\ref\EdsHikeStore.dll
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\bin\Debug\net8.0\appsettings.json
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\bin\Debug\net8.0\EdsHikeStore.staticwebassets.runtime.json
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\bin\Debug\net8.0\EdsHikeStore.exe
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\bin\Debug\net8.0\EdsHikeStore.deps.json
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\bin\Debug\net8.0\EdsHikeStore.runtimeconfig.json
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\bin\Debug\net8.0\EdsHikeStore.dll
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\bin\Debug\net8.0\EdsHikeStore.pdb
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\EdsHikeStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\EdsHikeStore.AssemblyInfoInputs.cache
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\EdsHikeStore.AssemblyInfo.cs
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\EdsHikeStore.csproj.CoreCompileInputs.cache
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\EdsHikeStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\EdsHikeStore.RazorAssemblyInfo.cache
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\EdsHikeStore.RazorAssemblyInfo.cs
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\EdsHikeStore.sourcelink.json
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\staticwebassets\msbuild.EdsHikeStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\staticwebassets\msbuild.build.EdsHikeStore.props
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EdsHikeStore.props
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EdsHikeStore.props
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\scopedcss\bundle\EdsHikeStore.styles.css
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\scopedcss\projectbundle\EdsHikeStore.bundle.scp.css
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\EdsHikeStore.dll
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\refint\EdsHikeStore.dll
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\EdsHikeStore.pdb
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\EdsHikeStore.genruntimeconfig.cache
+C:\Users\14406\Desktop\HikingStore\EdsHikeStore\Lab 5\obj\Debug\net8.0\ref\EdsHikeStore.dll
+C:\Users\14406\Desktop\Lab 5\obj\Debug\net8.0\EdsHikeStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14406\Desktop\Lab 5\obj\Debug\net8.0\EdsHikeStore.AssemblyInfoInputs.cache
+C:\Users\14406\Desktop\Lab 5\obj\Debug\net8.0\EdsHikeStore.AssemblyInfo.cs
+C:\Users\14406\Desktop\Lab 5\obj\Debug\net8.0\EdsHikeStore.csproj.CoreCompileInputs.cache
+C:\Users\14406\Desktop\Lab 5\obj\Debug\net8.0\EdsHikeStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\14406\Desktop\Lab 5\obj\Debug\net8.0\EdsHikeStore.RazorAssemblyInfo.cache
+C:\Users\14406\Desktop\Lab 5\obj\Debug\net8.0\EdsHikeStore.RazorAssemblyInfo.cs
+C:\Users\14406\Desktop\Lab 5\obj\Debug\net8.0\EdsHikeStore.dll
+C:\Users\14406\Desktop\Lab 5\obj\Debug\net8.0\refint\EdsHikeStore.dll
+C:\Users\14406\Desktop\Lab 5\obj\Debug\net8.0\EdsHikeStore.pdb
+C:\Users\14406\Desktop\Lab 7.0\bin\Debug\net8.0\EdsHikeStore.exe
+C:\Users\14406\Desktop\Lab 7.0\bin\Debug\net8.0\EdsHikeStore.dll
+C:\Users\14406\Desktop\Lab 7.0\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\14406\Desktop\Lab 7.0\bin\Debug\net8.0\appsettings.json
+C:\Users\14406\Desktop\Lab 7.0\bin\Debug\net8.0\EdsHikeStore.staticwebassets.runtime.json
+C:\Users\14406\Desktop\Lab 7.0\bin\Debug\net8.0\EdsHikeStore.deps.json
+C:\Users\14406\Desktop\Lab 7.0\bin\Debug\net8.0\EdsHikeStore.runtimeconfig.json
+C:\Users\14406\Desktop\Lab 7.0\bin\Debug\net8.0\EdsHikeStore.pdb
+C:\Users\14406\Desktop\Lab 7.0\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\EdsHikeStore.csproj.AssemblyReference.cache
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\EdsHikeStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\EdsHikeStore.AssemblyInfoInputs.cache
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\EdsHikeStore.AssemblyInfo.cs
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\EdsHikeStore.csproj.CoreCompileInputs.cache
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\EdsHikeStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\EdsHikeStore.RazorAssemblyInfo.cache
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\EdsHikeStore.RazorAssemblyInfo.cs
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\staticwebassets\msbuild.EdsHikeStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\staticwebassets\msbuild.build.EdsHikeStore.props
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EdsHikeStore.props
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EdsHikeStore.props
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\scopedcss\bundle\EdsHikeStore.styles.css
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\scopedcss\projectbundle\EdsHikeStore.bundle.scp.css
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\EdsHikeStore.csproj.CopyComplete
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\EdsHikeStore.dll
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\refint\EdsHikeStore.dll
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\EdsHikeStore.pdb
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\EdsHikeStore.genruntimeconfig.cache
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\ref\EdsHikeStore.dll

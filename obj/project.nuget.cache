@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ryG1EkrvRIi+p+hKJb+Pt9kBDkjls4JsYT7jBqONno5TGAdRAKpBTsQpOwS8QBnla7w+LRLltQFi2XcSRZURpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\14406\\Desktop\\Lab 7.0\\EdsHikeStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\14406\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\3.0.0\\microsoft.aspnetcore.authentication.negotiate.3.0.0.nupkg.sha512",
+    "C:\\Users\\14406\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.0.0\\microsoft.aspnetcore.connections.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\14406\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.0.0\\microsoft.aspnetcore.http.features.3.0.0.nupkg.sha512",
+    "C:\\Users\\14406\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\14406\\.nuget\\packages\\system.io.pipelines\\4.6.0\\system.io.pipelines.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
