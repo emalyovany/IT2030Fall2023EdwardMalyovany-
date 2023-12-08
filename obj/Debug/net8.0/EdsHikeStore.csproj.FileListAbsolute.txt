@@ -102,3 +102,4 @@ C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\refint\EdsHikeStore.dll
 C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\EdsHikeStore.pdb
 C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\EdsHikeStore.genruntimeconfig.cache
 C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\ref\EdsHikeStore.dll
+C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\EdsHikeStore.sourcelink.json
