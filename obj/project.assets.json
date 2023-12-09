@@ -179,11 +179,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\14406\\Desktop\\Lab 7.0\\EdsHikeStore.csproj",
+      "projectUniqueName": "C:\\Users\\14406\\Desktop\\Lab9\\EdsHikeStore.csproj",
       "projectName": "EdsHikeStore",
-      "projectPath": "C:\\Users\\14406\\Desktop\\Lab 7.0\\EdsHikeStore.csproj",
+      "projectPath": "C:\\Users\\14406\\Desktop\\Lab9\\EdsHikeStore.csproj",
       "packagesPath": "C:\\Users\\14406\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\14406\\Desktop\\Lab 7.0\\obj\\",
+      "outputPath": "C:\\Users\\14406\\Desktop\\Lab9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\14406\\AppData\\Roaming\\NuGet\\NuGet.Config"

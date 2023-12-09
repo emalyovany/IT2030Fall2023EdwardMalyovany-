@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ryG1EkrvRIi+p+hKJb+Pt9kBDkjls4JsYT7jBqONno5TGAdRAKpBTsQpOwS8QBnla7w+LRLltQFi2XcSRZURpQ==",
+  "dgSpecHash": "EvyuEaT4mwsq9HYGQp93lrjFaiaRqqYTIFYULOtiCOaQHNshjWCNUoT8sMdztIePQ95yStA7U8oLriwpc+LQzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\14406\\Desktop\\Lab 7.0\\EdsHikeStore.csproj",
+  "projectFilePath": "C:\\Users\\14406\\Desktop\\Lab9\\EdsHikeStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\14406\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\3.0.0\\microsoft.aspnetcore.authentication.negotiate.3.0.0.nupkg.sha512",
     "C:\\Users\\14406\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.0.0\\microsoft.aspnetcore.connections.abstractions.3.0.0.nupkg.sha512",

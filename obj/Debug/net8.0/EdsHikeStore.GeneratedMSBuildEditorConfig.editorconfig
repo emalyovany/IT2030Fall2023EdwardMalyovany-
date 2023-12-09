@@ -9,127 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EdsHikeStore
 build_property.RootNamespace = EdsHikeStore
-build_property.ProjectDir = C:\Users\14406\Desktop\Lab 7.0\
+build_property.ProjectDir = c:\Users\14406\Desktop\Lab9\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\14406\Desktop\Lab 7.0
+build_property.MSBuildProjectDirectory = c:\Users\14406\Desktop\Lab9
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/14406/Desktop/Lab 7.0/IT2030Fall2023EdwardMalyovany/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SVQyMDMwRmFsbDIwMjNFZHdhcmRNYWx5b3ZhbnlcUGFnZXNcRXJyb3IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/14406/Desktop/Lab 7.0/IT2030Fall2023EdwardMalyovany/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SVQyMDMwRmFsbDIwMjNFZHdhcmRNYWx5b3ZhbnlcUGFnZXNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/14406/Desktop/Lab 7.0/IT2030Fall2023EdwardMalyovany/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SVQyMDMwRmFsbDIwMjNFZHdhcmRNYWx5b3ZhbnlcUGFnZXNcUHJpdmFjeS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/14406/Desktop/Lab 7.0/IT2030Fall2023EdwardMalyovany/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SVQyMDMwRmFsbDIwMjNFZHdhcmRNYWx5b3ZhbnlcUGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/14406/Desktop/Lab 7.0/IT2030Fall2023EdwardMalyovany/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SVQyMDMwRmFsbDIwMjNFZHdhcmRNYWx5b3ZhbnlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/14406/Desktop/Lab 7.0/IT2030Fall2023EdwardMalyovany/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SVQyMDMwRmFsbDIwMjNFZHdhcmRNYWx5b3ZhbnlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/14406/Desktop/Lab 7.0/IT2030Fall2023EdwardMalyovany/Week 2 LAb/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SVQyMDMwRmFsbDIwMjNFZHdhcmRNYWx5b3ZhbnlcV2VlayAyIExBYlxQYWdlc1xFcnJvci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/14406/Desktop/Lab 7.0/IT2030Fall2023EdwardMalyovany/Week 2 LAb/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SVQyMDMwRmFsbDIwMjNFZHdhcmRNYWx5b3ZhbnlcV2VlayAyIExBYlxQYWdlc1xJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/14406/Desktop/Lab 7.0/IT2030Fall2023EdwardMalyovany/Week 2 LAb/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SVQyMDMwRmFsbDIwMjNFZHdhcmRNYWx5b3ZhbnlcV2VlayAyIExBYlxQYWdlc1xQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/14406/Desktop/Lab 7.0/IT2030Fall2023EdwardMalyovany/Week 2 LAb/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SVQyMDMwRmFsbDIwMjNFZHdhcmRNYWx5b3ZhbnlcV2VlayAyIExBYlxQYWdlc1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/14406/Desktop/Lab 7.0/IT2030Fall2023EdwardMalyovany/Week 2 LAb/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SVQyMDMwRmFsbDIwMjNFZHdhcmRNYWx5b3ZhbnlcV2VlayAyIExBYlxQYWdlc1xfVmlld0ltcG9ydHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/14406/Desktop/Lab 7.0/IT2030Fall2023EdwardMalyovany/Week 2 LAb/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SVQyMDMwRmFsbDIwMjNFZHdhcmRNYWx5b3ZhbnlcV2VlayAyIExBYlxQYWdlc1xfVmlld1N0YXJ0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/14406/Desktop/Lab 7.0/IT2030Fall2023EdwardMalyovany/Week 4 Lab/TipCalculator/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SVQyMDMwRmFsbDIwMjNFZHdhcmRNYWx5b3ZhbnlcV2VlayA0IExhYlxUaXBDYWxjdWxhdG9yXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/14406/Desktop/Lab 7.0/IT2030Fall2023EdwardMalyovany/Week 4 Lab/TipCalculator/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SVQyMDMwRmFsbDIwMjNFZHdhcmRNYWx5b3ZhbnlcV2VlayA0IExhYlxUaXBDYWxjdWxhdG9yXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/14406/Desktop/Lab 7.0/IT2030Fall2023EdwardMalyovany/Week 4 Lab/TipCalculator/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SVQyMDMwRmFsbDIwMjNFZHdhcmRNYWx5b3ZhbnlcV2VlayA0IExhYlxUaXBDYWxjdWxhdG9yXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/14406/Desktop/Lab 7.0/IT2030Fall2023EdwardMalyovany/Week 4 Lab/TipCalculator/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SVQyMDMwRmFsbDIwMjNFZHdhcmRNYWx5b3ZhbnlcV2VlayA0IExhYlxUaXBDYWxjdWxhdG9yXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/14406/Desktop/Lab 7.0/Pages/About.cshtml]
+[c:/Users/14406/Desktop/Lab9/Pages/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/14406/Desktop/Lab 7.0/Pages/contact.cshtml]
+[c:/Users/14406/Desktop/Lab9/Pages/contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/14406/Desktop/Lab 7.0/Pages/Error.cshtml]
+[c:/Users/14406/Desktop/Lab9/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/14406/Desktop/Lab 7.0/Pages/Index.cshtml]
+[c:/Users/14406/Desktop/Lab9/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/14406/Desktop/Lab 7.0/Pages/Privacy.cshtml]
+[c:/Users/14406/Desktop/Lab9/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/14406/Desktop/Lab 7.0/Pages/Product/Detail.cshtml]
+[c:/Users/14406/Desktop/Lab9/Pages/Product/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/14406/Desktop/Lab 7.0/Pages/Product/ListProducts.cshtml]
+[c:/Users/14406/Desktop/Lab9/Pages/Product/ListProducts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxMaXN0UHJvZHVjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/14406/Desktop/Lab 7.0/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/14406/Desktop/Lab9/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/14406/Desktop/Lab 7.0/Pages/_ViewImports.cshtml]
+[c:/Users/14406/Desktop/Lab9/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/14406/Desktop/Lab 7.0/Pages/_ViewStart.cshtml]
+[c:/Users/14406/Desktop/Lab9/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/14406/Desktop/Lab 7.0/IT2030Fall2023EdwardMalyovany/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SVQyMDMwRmFsbDIwMjNFZHdhcmRNYWx5b3ZhbnlcUGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-y1510xz5ig
-
-[C:/Users/14406/Desktop/Lab 7.0/IT2030Fall2023EdwardMalyovany/Week 2 LAb/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SVQyMDMwRmFsbDIwMjNFZHdhcmRNYWx5b3ZhbnlcV2VlayAyIExBYlxQYWdlc1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = b-qczq3sqndx
-
-[C:/Users/14406/Desktop/Lab 7.0/Pages/Shared/_Layout.cshtml]
+[c:/Users/14406/Desktop/Lab9/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-clvhxpp9qp

@@ -103,3 +103,37 @@ C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\EdsHikeStore.pdb
 C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\EdsHikeStore.genruntimeconfig.cache
 C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\ref\EdsHikeStore.dll
 C:\Users\14406\Desktop\Lab 7.0\obj\Debug\net8.0\EdsHikeStore.sourcelink.json
+c:\Users\14406\Desktop\Lab9\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\14406\Desktop\Lab9\bin\Debug\net8.0\appsettings.json
+c:\Users\14406\Desktop\Lab9\bin\Debug\net8.0\EdsHikeStore.staticwebassets.runtime.json
+c:\Users\14406\Desktop\Lab9\bin\Debug\net8.0\EdsHikeStore.exe
+c:\Users\14406\Desktop\Lab9\bin\Debug\net8.0\EdsHikeStore.deps.json
+c:\Users\14406\Desktop\Lab9\bin\Debug\net8.0\EdsHikeStore.runtimeconfig.json
+c:\Users\14406\Desktop\Lab9\bin\Debug\net8.0\EdsHikeStore.dll
+c:\Users\14406\Desktop\Lab9\bin\Debug\net8.0\EdsHikeStore.pdb
+c:\Users\14406\Desktop\Lab9\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\EdsHikeStore.csproj.AssemblyReference.cache
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\EdsHikeStore.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\EdsHikeStore.AssemblyInfoInputs.cache
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\EdsHikeStore.AssemblyInfo.cs
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\EdsHikeStore.csproj.CoreCompileInputs.cache
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\EdsHikeStore.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\EdsHikeStore.RazorAssemblyInfo.cache
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\EdsHikeStore.RazorAssemblyInfo.cs
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\EdsHikeStore.sourcelink.json
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\staticwebassets\msbuild.EdsHikeStore.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\staticwebassets\msbuild.build.EdsHikeStore.props
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EdsHikeStore.props
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EdsHikeStore.props
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\scopedcss\bundle\EdsHikeStore.styles.css
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\scopedcss\projectbundle\EdsHikeStore.bundle.scp.css
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\EdsHikeStore.csproj.CopyComplete
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\EdsHikeStore.dll
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\refint\EdsHikeStore.dll
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\EdsHikeStore.pdb
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\EdsHikeStore.genruntimeconfig.cache
+c:\Users\14406\Desktop\Lab9\obj\Debug\net8.0\ref\EdsHikeStore.dll
